@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="api_custom">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/api_custom" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
